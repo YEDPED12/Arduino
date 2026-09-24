@@ -1,1 +1,1 @@
-publish
+ngo publish
